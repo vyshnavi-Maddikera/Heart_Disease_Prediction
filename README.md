@@ -9,7 +9,7 @@ A Machine Learning-based web application that predicts the possibility of heart 
 
 **💼 LinkedIn:** YOUR_LINKEDIN_PROFILE_LINK
 
-**📂 GitHub:** YOUR_GITHUB_REPOSITORY_LINK
+**📂 GitHub:** https://github.com/vyshnavi-Maddikera/Heart_Disease_Prediction
 
 ---
 
