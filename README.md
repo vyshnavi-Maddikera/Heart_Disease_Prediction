@@ -5,7 +5,7 @@ A Machine Learning-based web application that predicts the possibility of heart 
 
 ## 🔗 Project Links
 
-**🌐 Live Demo:** YOUR_DEPLOYMENT_LINK
+**🌐 Live Demo:** https://heart-disease-prediction-1-45bd.onrender.com
 
 **💼 LinkedIn:** YOUR_LINKEDIN_PROFILE_LINK
 
