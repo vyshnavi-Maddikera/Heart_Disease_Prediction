@@ -6,7 +6,9 @@ A Machine Learning-based web application that predicts the possibility of heart 
 ## 🔗 Project Links
 
 **🌐 Live Demo:** YOUR_DEPLOYMENT_LINK
+
 **💼 LinkedIn:** YOUR_LINKEDIN_PROFILE_LINK
+
 **📂 GitHub:** YOUR_GITHUB_REPOSITORY_LINK
 
 ---
